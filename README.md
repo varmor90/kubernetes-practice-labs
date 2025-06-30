@@ -9,7 +9,9 @@ I'm using this repo to reinforce key Kubernetes concepts through hands-on exampl
 
 ## 📁 Folder Structure
 ├── kubernetes-core-concepts/ # Pods, Deployments, Services
+
 ├── kubernetes-networking/ # Multi-container Pods, DNS, communication
+
 └── kubernetes-managing-data-and-volumes/ # Volumes, PV, PVC, emptyDir, hostPath
 
 
