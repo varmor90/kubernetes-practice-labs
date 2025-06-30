@@ -1,9 +1,16 @@
-# Core Kubernetes Concepts
+# Kubernetes Core Concepts ☸️
 
-Practice labs related to:
-- Pods
-- Deployments
-- ReplicaSets
+This folder contains hands-on labs and notes related to the core building blocks of Kubernetes.  
+The material is based on the *Docker & Kubernetes: The Practical Guide (2025 Edition)* by Academind.
+
+---
+
+## 🧱 Covered Topics
+
+- What Kubernetes actually does (and what it doesn’t)
+- Deployments – Imperative & Declarative
 - Services (ClusterIP, NodePort)
-
-Based on lessons from *The Practical Guide (Academind)*.
+- Labels & Selectors
+- Scaling, Updates & Rollbacks
+- Liveness Probes
+- Config files (multi vs single YAML)
